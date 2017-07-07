@@ -1,0 +1,28 @@
+{
+  "name": "noisejs-umd",
+  "version": "1.0.0",
+  "description": "UMD version of perlin and simplex noise algorithms for 2D.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arturmiglio/noisejs-umd.git"
+  },
+  "keywords": [
+    "noise",
+    "noisejs",
+    "simplex",
+    "perlin"
+  ],
+  "author": "Artur Miglio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arturmiglio/noisejs-umd/issues"
+  },
+  "homepage": "https://github.com/arturmiglio/noisejs-umd#readme",
+  "devDependencies": {
+    "gulp-filter": "^5.0.0"
+  }
+}
